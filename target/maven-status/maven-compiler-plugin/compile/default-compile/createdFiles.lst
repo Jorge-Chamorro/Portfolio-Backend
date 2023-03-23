@@ -2,6 +2,7 @@ com\portfolio\Geo\Entity\Skill.class
 com\portfolio\Geo\Service\ImpProyectosService.class
 com\portfolio\Geo\Entity\Experiencia.class
 com\portfolio\Geo\Controller\ExperienciaController.class
+com\portfolio\Geo\WebConfig.class
 com\portfolio\Geo\Interface\UserRepo.class
 com\portfolio\Geo\Repository\IPersonaRepository.class
 com\portfolio\Geo\Entity\Proyectos.class

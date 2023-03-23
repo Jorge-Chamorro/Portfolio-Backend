@@ -2,6 +2,7 @@ D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\In
 D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Service\ImpSkillService.java
 D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\Experiencia.java
 D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\User.java
+D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\WebConfig.java
 D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\UserRepo.java
 D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\IExperienciaService.java
 D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Repository\IExperienciaRepository.java
