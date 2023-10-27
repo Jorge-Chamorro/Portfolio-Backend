@@ -1,30 +1,30 @@
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\IPersonaService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Service\ImpSkillService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\Experiencia.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\User.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\WebConfig.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\UserRepo.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\IExperienciaService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Repository\IExperienciaRepository.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Repository\IProyectosRepository.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Repository\IPersonaRepository.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\Proyectos.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\Skill.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Repository\IEducacionRepository.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\IProyectosService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Service\ImpExperienciaService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\Persona.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Controller\SkillController.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\IEducacionService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Controller\PersonaCrontroller.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Repository\ISkillRepository.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Controller\EducacionController.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\GeoApplication.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Service\ImpPersonaService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Controller\ExperienciaController.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Controller\UserController.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Service\ImpProyectosService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Interface\ISkillService.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Entity\Educacion.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Controller\ProyectosCrontoller.java
-D:\Code\Proyectos\Backend con Spring Boot\Geo\src\main\java\com\portfolio\Geo\Service\ImpEducacionService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\User.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Repository\IPersonaRepository.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Service\ImpExperienciaService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Service\ImpEducacionService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\ProyectosCrontoller.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Service\ImpSkillService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\UserController.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\IProyectosService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\GeoApplication.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\ExperienciaController.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\UserRepo.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\SkillController.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\WebConfig.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Repository\IExperienciaRepository.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\IEducacionService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\EducacionController.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Repository\ISkillRepository.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Service\ImpProyectosService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Repository\IProyectosRepository.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Repository\IEducacionRepository.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Service\ImpPersonaService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Proyectos.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\IExperienciaService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\PersonaCrontroller.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Persona.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\ISkillService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Experiencia.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Educacion.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\IPersonaService.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Skill.java
