@@ -8,11 +8,11 @@ import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 @EnableWebMvc
 @Configuration
-public class WebConfig implements WebMvcConfigurer{
+public class CorsConfig implements WebMvcConfigurer{
     @Override
     public void addCorsMappings(CorsRegistry registry) {
         registry.addMapping("/**")
-        .allowedOrigins("https://portfolio-fa21f.web.app/", "http://localhost:4200/")
+        .allowedOrigins("*")
         .allowedMethods("*")
         .allowedHeaders("*");
     };
