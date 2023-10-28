@@ -10,7 +10,6 @@ C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\ExperienciaController.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\UserRepo.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\SkillController.java
-C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\WebConfig.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Repository\IExperienciaRepository.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\IEducacionService.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Controller\EducacionController.java
@@ -25,6 +24,7 @@ C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Persona.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\ISkillService.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Experiencia.java
+C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\CorsConfig.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Educacion.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Interface\IPersonaService.java
 C:\Code\Backend del portfolio\Portfolio-Backend\src\main\java\com\portfolio\Geo\Entity\Skill.java
