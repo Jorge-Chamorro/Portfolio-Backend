@@ -20,7 +20,7 @@ public WebMvcConfigurer corsConfigurer(){
 	return new WebMvcConfigurer() {
 			@Override
 			public void addCorsMappings(CorsRegistry registry) {
-				registry.addMapping("/**").allowedOrigins("https://portfolio-fa21f.web.app").allowedMethods("*").allowedHeaders("*");
+				registry.addMapping("/**").allowedOrigins("https://portfoliogeo.000webhostapp.com").allowedMethods("*").allowedHeaders("*");
 			}
 		};
 	}
